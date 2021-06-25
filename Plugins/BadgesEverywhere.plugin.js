@@ -1,23 +1,23 @@
 /**
  * @name BadgesEverywhere
- * @author DevilBro
+ * @author Harley
  * @authorId 278543574059057154
- * @version 1.7.5
+ * @version 1.7.6
  * @description Displays Badges (Nitro, Hypesquad, etc...) in the Chat/MemberList
  * @invite Jx3TjNS
  * @donate https://www.paypal.me/MircoWittrien
  * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/BadgesEverywhere/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Plugins/BadgesEverywhere/BadgesEverywhere.plugin.js
+ * @website https://github.com/Harley2787/BetterDiscord
+ * @source https://github.com/Harley2787/BetterDiscord/blob/main/Plugins/BadgesEverywhere.plugin.js
+ * @updateUrl https://github.com/Harley2787/BetterDiscord/blob/main/Plugins/BadgesEverywhere.plugin.js
  */
 
 module.exports = (_ => {
 	const config = {
 		"info": {
 			"name": "BadgesEverywhere",
-			"author": "DevilBro",
-			"version": "1.7.5",
+			"author": "Harley",
+			"version": "1.7.6",
 			"description": "Displays Badges (Nitro, Hypesquad, etc...) in the Chat/MemberList"
 		},
 		"changeLog": {
