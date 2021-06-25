@@ -4,9 +4,6 @@
  * @authorId 278543574059057154
  * @version 1.7.6
  * @description Displays Badges (Nitro, Hypesquad, etc...) in the Chat/MemberList
- * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
  * @website https://github.com/Harley2787/BetterDiscord
  * @source https://github.com/Harley2787/BetterDiscord/blob/main/Plugins/BadgesEverywhere.plugin.js
  * @updateUrl https://github.com/Harley2787/BetterDiscord/blob/main/Plugins/BadgesEverywhere.plugin.js
